@@ -8,7 +8,7 @@ ICO 21*/
 #include<time.h>
 #include<stdlib.h>
 using namespace std;
-
+using vector;
 void fillArrayMax(int* first,int* apSize);
 void printArray(int* first, int* apSize);
 void fillArray(int* first,int* apSize);
